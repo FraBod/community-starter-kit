@@ -1,5 +1,7 @@
 # Your GitHub Learning Lab Repository for Community Starter Kit
 
+FB: So von nun an geht es wohl los.
+
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
 
 Oh! I haven't introduced myself...
